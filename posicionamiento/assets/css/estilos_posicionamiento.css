@@ -1,0 +1,508 @@
+h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+p{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;};
+
+
+
+
+
+
+
+.bandera_colombia{
+    width: 500px;
+    height: 300px;
+    padding: 0px!important;
+    box-sizing: border-box !important;
+}
+.bandera_colombia div{
+    margin:0px ;
+    padding: 0px !important;
+    box-sizing: border-box;
+ } 
+.amarillo_colombia{
+    background-color: yellow;
+    height:150px;
+    width: 500px;
+    
+}
+
+.azul_colombia{
+    height: 75px;
+    width:500px ;
+    border: none;
+    background-color:blue;
+}
+
+.rojo_colombia{
+    display: inline-block;
+    height: 75px;
+    width:500px ;
+    border: none;
+    background-color: red;
+}
+
+.bandera_mexico{
+    width: 500px;
+    height: 300px;
+    padding: 0px !important;
+    box-sizing: border-box !important;
+}
+
+.bandera_mexico div {
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.verde_mexico
+{   background-color: rgb(40, 116, 50);
+    display: inline-block;
+    width: 167px;
+    height: 300px;
+}
+.blanco_mexico{   
+    display: inline-block;
+    width: 155px;
+    height: 300px;
+    border: none;
+    background-color: white
+}
+.rojo_mexico{
+    
+    display: inline-block;
+    width: 167px;
+    height: 300px;
+    background-color:red
+    }  
+
+.escudo_mexico{
+    position:relative;
+    width:130px;
+    height:130px;
+    left:180px;
+    bottom:220px;
+
+   
+} 
+  
+.bandera_españa{
+    width: 500px;
+    height: 300px;
+    padding: 0px!important;
+    box-sizing: border-box !important;
+}
+   
+.bandera_españa div{
+    margin:0px !important;
+    padding: 0px !important;
+    box-sizing: border-box;
+   
+ } 
+
+.rojo_españa{
+    background-color: red;
+    height: 75px;
+    width:500px ;
+}
+
+.amarillo_españa{
+    background-color: yellow;
+    height:150px;
+    width: 500px;
+}
+
+.rojo_españa01{
+    background-color: red;
+    height: 75px;
+    width:500px ;
+}
+
+.escudo_españa{
+    
+    position:relative;
+    width:130px;
+    height:130px;
+    left:80px;
+    bottom:220px;
+
+}
+
+
+
+
+.bandera_japon{
+    width: 500px;
+    height: 300px;
+    padding: 0px!important;
+    box-sizing: border-box !important;
+    border:none !important;
+   
+}
+
+.blanco_japon{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    border: 1px black solid;
+}
+
+.rojo_japon{
+    position: relative;
+    background-color:red;
+    width: 200px;
+    height: 200px;
+    border-radius:70%;
+    left: 145px;
+    bottom: 250px;
+}
+
+.bandera_islandia{
+    width: 500px;
+    height: 300px;
+    padding: 0px!important;
+    box-sizing: border-box !important;
+    margin:0px
+}
+
+.azul_islandia{
+    background-color: blue;
+    width: 500px;
+    height: 300px;
+}
+.blanco_islandia01{
+    background: white;
+    height: 308px;
+    position: relative;
+    width: 60px;
+    bottom: 300px;
+    left: 135px;
+}
+
+.blanco_islandia02{
+    width: 510px;
+    height: 46px;
+    background-color:white;
+    position: relative;
+    top: -470px;
+    left: -5px;
+}
+
+.rojo_islandia01{
+    background:red;
+    height: 301px;
+    position: relative;
+    width: 30px;
+    bottom: 656px;
+    left: 150px;
+}
+
+.rojo_islandia02{
+    background-color: red;
+    width: 505px;
+    height: 25px;
+    position: relative;
+    top: -809px;
+    left: -5px;
+}
+
+.bandera_chile{
+    width: 500px;
+    height: 300px;
+    padding: 0px!important;
+    box-sizing: border-box !important;
+    margin-bottom: 0px;
+}
+
+.blanco_chile{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    border: 1px black solid;
+}
+
+.azul_chile{
+    width: 170px;
+    height: 300px;
+    background-color: blue;
+    position: relative;
+    top: -302px;
+    left: 0px;
+    display: inline-block;
+}
+
+.rojo_chile{
+    background-color: red;
+    height: 180px;
+    width: 501px;
+    position: relative;
+    display:inline-block;
+    top: -485px;
+    
+
+}
+.estrella_chile{
+     
+margin: 50px 0;
+position: relative;
+color:black;
+width: 0px;
+height: 0px;
+border-right: 100px solid transparent;
+border-bottom: 70px solid rgb(255, 255, 255);
+border-left: 90px solid transparent;
+transform: rotate(45deg);
+bottom: 820px;
+right: 15px;
+transform: scale(35%);
+    
+}
+    
+.estrella_chile:before {
+    
+border-bottom: 80px solid rgb(255, 255, 255);
+border-left: 30px solid transparent;
+border-right: 30px solid transparent;
+position: absolute;
+height: 0;
+width: 0;
+top: -45px;
+left: -65px;
+display: block;
+content: '';
+transform: rotate(-35deg);
+    
+}
+    
+.estrella_chile:after {
+position: absolute;
+display: block;
+color: rgb(255, 255, 255);
+top: 3px;
+left: -105px;
+width: 0px;
+height: 0px;
+border-right: 100px solid transparent;
+border-bottom: 70px solid rgb(255, 255, 255);
+border-left: 100px solid transparent;
+transform: rotate(-70deg);
+content: '';
+    
+}
+
+
+.bandera_brasil{
+    width: 500px;
+    height: 300px;
+    padding: 0px!important;
+    box-sizing: border-box !important;
+    border:none !important;
+   
+}
+
+.verde_brasil{
+    background-color:green;
+    width: 500px;
+    height: 300px;
+    border: none
+}
+
+.amarillo_brasil{
+    
+    background:yellow;
+    transform: rotate(45deg) skew(165deg, 165deg);
+    position: relative;
+    width: 200px; 
+    height: 200px; 
+    left: 145px;
+    bottom: 250px;
+}
+
+.azul_brasil{
+    
+    position: relative;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border-radius:70%;
+    left: 195px;
+    bottom: 401px;
+}
+
+.bandera_pakistan{
+    width: 500px;
+    height: 300px;
+    padding: 0px!important;
+    box-sizing: border-box !important;
+    border:none !important;
+}
+
+.blanco_pakistan{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    border: 1px black solid;
+}
+
+.verde_pakistan{
+    width: 350px;
+    height: 300px;
+    background-color: darkgreen;
+    position: relative;
+    top: -301px;
+    left: 151px;
+    display: inline-block;
+    bottom: 50px;
+}
+
+.luna_pakistan{
+    
+    position: relative;
+    display: inline-block;
+    transform: rotate(90deg);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 15px 15px 0 0 white;
+    left: 250px;
+    bottom:550px;
+}
+
+.estrella_pakistan{
+    margin: 50px 0;
+    position: relative;
+    display: block;
+    color:black;
+    width: 0px;
+    height: 0px;
+    border-right: 100px solid transparent;
+    border-bottom: 70px solid white;
+    border-left: 100px solid transparent;
+    transform: rotate(35deg);
+    transform:scale(30%);
+    left: 240px;
+    bottom: 740px;
+  }
+  .estrella_pakistan:before {
+    border-bottom: 80px solid white;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    position: absolute;
+    height: 0;
+    width: 0;
+    top: -45px;
+    left: -65px;
+    display: block;
+    content: '';
+    transform: rotate(-35deg);
+  }
+  .estrella_pakistan:after {
+    position: absolute;
+    display: block;
+    color: white;
+    top: 3px;
+    left: -105px;
+    width: 0px;
+    height: 0px;
+    border-right: 100px solid transparent;
+    border-bottom: 70px solid;
+    border-left: 100px solid transparent;
+    transform: rotate(-70deg);
+    content: '';
+
+}
+
+.bandera_corea{
+    width: 500px;
+    height: 300px;
+    padding: 0px!important;
+    box-sizing: border-box !important;
+    border:none !important;
+}
+
+.blanco_corea{
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    border: 1px black solid;
+}
+
+.yinyan_corea{
+    width: 96px;
+    box-sizing: content-box;
+    height: 48px;
+    background:red;
+    border-color:darkslateblue;
+    border-style: solid;
+    border-width: 0px 0px 50px 0px;
+    border-radius: 100%;
+    position: relative;
+    left:200px ;
+    bottom: 200px;
+}
+
+
+.rojo_corea:before {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 0;
+        background:red;
+        border: 18px solid red;
+        border-radius: 100%;
+        width: 12px;
+        height: 12px;
+        box-sizing: content-box;
+}
+
+
+.azul_corea:after {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            background: darkslateblue;
+            border: 18px solid darkslateblue;
+            border-radius: 100%;
+            width: 12px;
+            height: 12px;
+            box-sizing: content-box;
+}
+.circulorojo_corea{
+    position: relative;
+    background-color:red;
+    width: 46px;
+    height: 46px;
+    border-radius:70%;
+    left: 202px;
+    bottom: 277px;}
+
+.circuloazul_corea{
+    position: relative;
+    background-color:darkslateblue;
+    width: 47px;
+    height: 47px;
+    border-radius:70%;
+    left: 248px;
+    bottom: 316px;}
+
+.lineas_corea{
+    position:relative;
+    width:240px;
+    height:240px;
+    left:125px;
+    bottom:458px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
