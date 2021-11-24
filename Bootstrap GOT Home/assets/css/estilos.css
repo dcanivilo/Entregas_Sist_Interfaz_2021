@@ -1,0 +1,41 @@
+body{
+background-color: hotpink;
+}
+.imagen_homepage{
+    width: 100%
+}
+
+h1{
+    text-align: center;
+    padding-top: 150px;
+}
+
+h2{
+    text-align: center;
+    padding-top: 100px;
+}
+
+
+.libro01{
+    width: 100%;
+    padding-top: 100px;
+    
+}
+
+.libro02{
+    width: 100%;
+    padding-top: 100px;
+}
+
+.libro03{
+    width: 100%;
+    padding-top: 150px;
+}
+
+.libro04{
+    width: 100%;
+    padding-top: 150px;
+}
+
+
+

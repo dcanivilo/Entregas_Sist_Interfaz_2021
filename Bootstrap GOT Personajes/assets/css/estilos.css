@@ -1,0 +1,39 @@
+body{
+    background-color: chartreuse;
+}
+
+/* .borde_columna{
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+
+.borde__columna{
+    border: 1px solid purple;
+    border-radius: 5px;
+} */
+
+.imagen_jsnow{
+    width: 100%;
+}
+
+.imagen_jsnow2{
+    width: 100%;
+}
+
+.imagen_jsnow3{
+    width: 100%;
+}
+
+.jown_snow{
+    padding-top: 100px;
+}
+
+.logo_casa_stark{
+    width: 100%;
+    height: auto;
+    padding-top: 200px;
+    
+
+
+}
